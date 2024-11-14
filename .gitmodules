@@ -6,7 +6,7 @@
 	url = git@github.com:PolyArch/gem-forge-transform.git
 [submodule "gem5"]
 	path = gem5
-	url = git@github.com:PolyArch/gem-forge-gem5.git
+	url = git@github.com:jingyao-zhang/gem-forge-gem5.git
 [submodule "lib/protobuf"]
 	path = lib/protobuf
 	url = git@github.com:protocolbuffers/protobuf.git
